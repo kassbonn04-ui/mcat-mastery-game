@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 90" fill="none">
+  <defs>
+    <filter id="s" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="1" dy="2" stdDeviation="1.5" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <g filter="url(#s)">
+    <rect x="6" y="8" width="148" height="74" rx="6" fill="#f8f0dc" stroke="#5a3a18" stroke-width="2.5"/>
+    <path d="M118 8 V82" stroke="#5a3a18" stroke-width="2" stroke-dasharray="4 3"/>
+    <circle cx="118" cy="8" r="6" fill="#e8dcc4"/>
+    <circle cx="118" cy="82" r="6" fill="#e8dcc4"/>
+    <text x="20" y="36" font-family="Georgia, serif" font-size="11" fill="#8a2430" letter-spacing="1">ARCANUM EXPRESS</text>
+    <text x="20" y="56" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#2a1810">PLATFORM  &</text>
+    <text x="128" y="52" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#a87828">7½</text>
+  </g>
+</svg>

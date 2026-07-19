@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280" role="img" aria-label="Axon field-line study schematic">
+  <rect width="480" height="280" fill="#f8f0dc"/>
+  <text x="240" y="22" text-anchor="middle" font-family="Georgia,serif" font-size="13" fill="#5a3a18">Study schematic — electric field lines (axon interior negative)</text>
+  <g transform="translate(16,36)">
+    <rect width="210" height="100" rx="8" fill="#fff" stroke="#a87828" stroke-width="2"/>
+    <text x="10" y="18" font-family="Georgia" font-size="14" fill="#8a2430">A</text>
+    <circle cx="70" cy="58" r="22" fill="none" stroke="#2a1810" stroke-width="2"/>
+    <text x="64" y="63" font-size="14" fill="#2a1810">?</text>
+    <path d="M100 58 H190" stroke="#3d7a4f" stroke-width="2"/>
+    <polygon points="190,58 178,52 178,64" fill="#3d7a4f"/>
+    <text x="108" y="48" font-size="10" fill="#5a3a18">outward only (wrong)</text>
+  </g>
+  <g transform="translate(254,36)">
+    <rect width="210" height="100" rx="8" fill="#fff" stroke="#3d7a4f" stroke-width="3"/>
+    <text x="10" y="18" font-family="Georgia" font-size="14" fill="#8a2430">B ?</text>
+    <circle cx="70" cy="58" r="22" fill="#e8f0ff" stroke="#2a1810" stroke-width="2"/>
+    <text x="64" y="63" font-size="14" fill="#2a1810">?</text>
+    <path d="M190 40 Q120 58 190 76" fill="none" stroke="#3d7a4f" stroke-width="2"/>
+    <polygon points="190,40 178,36 180,48" fill="#3d7a4f"/>
+    <polygon points="190,76 178,70 180,82" fill="#3d7a4f"/>
+    <text x="105" y="55" font-size="10" fill="#2a1810">lines enter negative axon</text>
+  </g>
+  <g transform="translate(16,152)">
+    <rect width="210" height="100" rx="8" fill="#fff" stroke="#a87828" stroke-width="2"/>
+    <text x="10" y="18" font-family="Georgia" font-size="14" fill="#8a2430">C</text>
+    <circle cx="70" cy="58" r="22" fill="#ffe8e8" stroke="#2a1810" stroke-width="2"/>
+    <text x="64" y="63" font-size="14" fill="#2a1810">+</text>
+    <path d="M90 58 H180" stroke="#c45c2a" stroke-width="2"/>
+    <text x="100" y="50" font-size="10" fill="#5a3a18">wrong sign inside axon</text>
+  </g>
+  <g transform="translate(254,152)">
+    <rect width="210" height="100" rx="8" fill="#fff" stroke="#a87828" stroke-width="2"/>
+    <text x="10" y="18" font-family="Georgia" font-size="14" fill="#8a2430">D</text>
+    <circle cx="105" cy="58" r="28" fill="none" stroke="#2a1810" stroke-width="2" stroke-dasharray="4 3"/>
+    <text x="70" y="62" font-size="10" fill="#5a3a18">closed loops (not electrostatic)</text>
+  </g>
+  <text x="240" y="270" text-anchor="middle" font-size="11" fill="#6a4a18">Not official AAMC art — rebuilt for study (scrape had empty image choices).</text>
+</svg>

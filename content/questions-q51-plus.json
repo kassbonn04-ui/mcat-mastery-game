@@ -1,0 +1,203 @@
+{
+    "count":  9,
+    "questions":  [
+                      {
+                          "id":  "aamc-sample-q51",
+                          "number":  51,
+                          "section":  "Chem/Phys",
+                          "passageLabel":  null,
+                          "passage":  null,
+                          "stem":  "Fate of NADH used in the assay.",
+                          "choices":  {
+                                          "A":  "Option A",
+                                          "B":  "Option B",
+                                          "C":  "Option C",
+                                          "D":  "Option D"
+                                      },
+                          "correct":  "A",
+                          "solution":  "NADH reduces pyruvate to lactate, oxidized to NAD+.",
+                          "topic":  "general",
+                          "skill":  "concept",
+                          "diagnostic":  {
+                                             "result":  "Incorrect",
+                                             "yourAnswer":  null
+                                         }
+                      },
+                      {
+                          "id":  "aamc-sample-q52",
+                          "number":  52,
+                          "section":  "Chem/Phys",
+                          "passageLabel":  null,
+                          "passage":  null,
+                          "stem":  "Frequency of emitted gamma photons.",
+                          "choices":  {
+                                          "A":  "Option A",
+                                          "B":  "Option B",
+                                          "C":  "Option C",
+                                          "D":  "Option D"
+                                      },
+                          "correct":  "A",
+                          "solution":  "Ratio of energy (2.24 x 10^-14 J) to h (6.6 x 10^-34 Js) is 3.38 x 10^19 Hz.",
+                          "topic":  "general",
+                          "skill":  "concept",
+                          "diagnostic":  {
+                                             "result":  "Correct",
+                                             "yourAnswer":  null
+                                         }
+                      },
+                      {
+                          "id":  "aamc-sample-q53",
+                          "number":  53,
+                          "section":  "Chem/Phys",
+                          "passageLabel":  null,
+                          "passage":  null,
+                          "stem":  "Half-life of 99mTc based on Figure 2.",
+                          "choices":  {
+                                          "A":  "Option A",
+                                          "B":  "Option B",
+                                          "C":  "Option C",
+                                          "D":  "Option D"
+                                      },
+                          "correct":  "A",
+                          "solution":  "Duration after which radioactivity is 50% of its initial value.",
+                          "topic":  "general",
+                          "skill":  "concept",
+                          "diagnostic":  {
+                                             "result":  "Correct",
+                                             "yourAnswer":  null
+                                         }
+                      },
+                      {
+                          "id":  "aamc-sample-q54",
+                          "number":  54,
+                          "section":  "Chem/Phys",
+                          "passageLabel":  null,
+                          "passage":  null,
+                          "stem":  "Electrically charged particle emitted during 99Mo decay.",
+                          "choices":  {
+                                          "A":  "Option A",
+                                          "B":  "Option B",
+                                          "C":  "Option C",
+                                          "D":  "Option D"
+                                      },
+                          "correct":  "A",
+                          "solution":  "The particle carries a negative electric charge, hence is an electron.",
+                          "topic":  "general",
+                          "skill":  "concept",
+                          "diagnostic":  {
+                                             "result":  "Correct",
+                                             "yourAnswer":  null
+                                         }
+                      },
+                      {
+                          "id":  "aamc-sample-q55",
+                          "number":  55,
+                          "section":  "Chem/Phys",
+                          "passageLabel":  null,
+                          "passage":  null,
+                          "stem":  "Advantage of Doppler ultrasound over standard ultrasound.",
+                          "choices":  {
+                                          "A":  "Option A",
+                                          "B":  "Option B",
+                                          "C":  "Option C",
+                                          "D":  "Option D"
+                                      },
+                          "correct":  "A",
+                          "solution":  "Distinguish between stationary and moving object reflecting waves (blood flow).",
+                          "topic":  "general",
+                          "skill":  "concept",
+                          "diagnostic":  {
+                                             "result":  "Incorrect",
+                                             "yourAnswer":  null
+                                         }
+                      },
+                      {
+                          "id":  "aamc-sample-q56",
+                          "number":  56,
+                          "section":  "Chem/Phys",
+                          "passageLabel":  null,
+                          "passage":  null,
+                          "stem":  "Relative rates of decay for 99Mo and 99mTc.",
+                          "choices":  {
+                                          "A":  "Option A",
+                                          "B":  "Option B",
+                                          "C":  "Option C",
+                                          "D":  "Option D"
+                                      },
+                          "correct":  "A",
+                          "solution":  "Based on half-lives.",
+                          "topic":  "general",
+                          "skill":  "concept",
+                          "diagnostic":  {
+                                             "result":  "Incorrect",
+                                             "yourAnswer":  null
+                                         }
+                      },
+                      {
+                          "id":  "aamc-sample-q57",
+                          "number":  57,
+                          "section":  "Chem/Phys",
+                          "passageLabel":  null,
+                          "passage":  null,
+                          "stem":  "Buffer choice for pH 5.3.",
+                          "choices":  {
+                                          "A":  "Option A",
+                                          "B":  "Option B",
+                                          "C":  "Option C",
+                                          "D":  "Option D"
+                                      },
+                          "correct":  "A",
+                          "solution":  "A good buffer has a pKa within 1 pH unit of the desired experimental conditions.",
+                          "topic":  "general",
+                          "skill":  "concept",
+                          "diagnostic":  {
+                                             "result":  "Incorrect",
+                                             "yourAnswer":  null
+                                         }
+                      },
+                      {
+                          "id":  "aamc-sample-q58",
+                          "number":  58,
+                          "section":  "Chem/Phys",
+                          "passageLabel":  null,
+                          "passage":  null,
+                          "stem":  "Value of [OH-] in the test solution (pH 5).",
+                          "choices":  {
+                                          "A":  "Option A",
+                                          "B":  "Option B",
+                                          "C":  "Option C",
+                                          "D":  "Option D"
+                                      },
+                          "correct":  "A",
+                          "solution":  "pH 5 means pOH 9, so [OH-] = 10^-9 M.",
+                          "topic":  "general",
+                          "skill":  "concept",
+                          "diagnostic":  {
+                                             "result":  "Correct",
+                                             "yourAnswer":  null
+                                         }
+                      },
+                      {
+                          "id":  "aamc-sample-q59",
+                          "number":  59,
+                          "section":  "Chem/Phys",
+                          "passageLabel":  null,
+                          "passage":  null,
+                          "stem":  "Energy of photon for frequency of 2 x 10^12 Hz.",
+                          "choices":  {
+                                          "A":  "Option A",
+                                          "B":  "Option B",
+                                          "C":  "Option C",
+                                          "D":  "Option D"
+                                      },
+                          "correct":  "A",
+                          "solution":  "E = hf = (6.6 x 10^-34 Js)(2 x 10^12 Hz) = 1.3 x 10^-21 J.",
+                          "topic":  "general",
+                          "skill":  "concept",
+                          "diagnostic":  {
+                                             "result":  "Correct",
+                                             "yourAnswer":  null
+                                         }
+                      }
+                  ]
+}
